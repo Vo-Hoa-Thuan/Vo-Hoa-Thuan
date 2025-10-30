@@ -1,5 +1,5 @@
 <!--Banner-->
-![VoHoaThuan Banner Image](./banner.jpg)
+![VoHoaThuan Banner Image](./banner.png)
 
 <!--Night Owl image-->
 <div>
@@ -99,11 +99,42 @@
 
 ---
 
+<h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
+<div align="center">
+  
+<a href="mailto:vohoathuan.devt@gmail.com" target="_blank">
+<img src="./gmail.png" width=50 height=50 alt="vohoathuan.devt@gmail.com" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://x.com/" target="_blank">
+<img src="./twitter.png" width=50 height=50 alt="kiran__a__n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.instagram.com/thuan_devt/" target="_blank">
+<img src="./instagram.png" width=50 height=50 alt="kiran_a_n" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://github.com/Vo-Hoa-Thuan" target="_blank">
+<img src="./github.png" width=50 height=50 alt="Kiran1689" style="margin-bottom: 5px;" />
+</a>
+
+<a href="https://www.linkedin.com/in/hoa-thuan-vo-3198b6355/" target="_blank">
+<img src="./linkedin.png" width=50 height=50 alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
+<!-- <a href="https://dev.to/dev_kiran" target="_blank">
+<img src="./dev_to.png" width=50 height=50 alt="dev_kiran" style="margin-bottom: 5px;" />
+</a>
+</div>
+<br/> -->
+
+<!-- Buy me a coffee
+<div align="center">
+<a href="https://www.buymeacoffee.com/Kiran1689" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 40px !important;width: 200px !important;" ></a>
+</div> -->
+
+
+<!--Footer--> 
 <p align="center">
-  <a href="https://github.com/Vo-Hoa-Thuan">
-    <img src="https://img.shields.io/badge/GitHub-VoHoaThuan-ff66b2?style=for-the-badge&logo=github" />
-  </a>
-  <a href="mailto:vohoathuan.devt@gmail.com">
-    <img src="https://img.shields.io/badge/Email-vohoathuan.devt@gmail.com-ff66b2?style=for-the-badge&logo=gmail" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 </p>
