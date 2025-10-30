@@ -1,5 +1,5 @@
 <!--Banner-->
-![VoHoaThuan Banner Image](./banner.png)
+![VoHoaThuan Banner Image](./banner.jpg)
 
 <!--Night Owl image-->
 <div>
